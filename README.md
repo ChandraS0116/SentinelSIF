@@ -9,8 +9,8 @@
 ![Three.js WebGL](https://img.shields.io/badge/3D%20Engine-Three.js%20%2F%20WebGL-049EF4?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1.0+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-SQLite%20(Native%20WAL)-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Statutory Compliance](https://img.shields.io/badge/Statutory-DGMS%20OMR%202019%20Rule%2043-10B981?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Statutory Compliance](https://img.shields.io/badge/Statutory-DGMS%20OMR%202019%20Rule%2043-10B981?style=for-the-badge)](#-statutory-directives--scientific-references)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 **AI-Powered Serious Injury & Fatality (SIF) Precursor Prevention & Industrial Process Safety Decision Intelligence Platform**
 
@@ -285,7 +285,7 @@ npm run dev
 
 ## 📄 License & Attribution
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
 Developed for the **Smart India Hackathon (SIH 2026)** under Problem Statement **SIH26165** for **Oil India Limited (OIL)** and the **Ministry of Petroleum & Natural Gas**.
 
