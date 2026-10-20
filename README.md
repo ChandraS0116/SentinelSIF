@@ -9,14 +9,14 @@
 ![Three.js WebGL](https://img.shields.io/badge/3D%20Engine-Three.js%20%2F%20WebGL-049EF4?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1.0+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-SQLite%20(Native%20WAL)-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-[![Statutory Compliance](https://img.shields.io/badge/Statutory-DGMS%20OMR%202019%20Rule%2043-10B981?style=for-the-badge)](#-statutory-directives--scientific-references)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+![Statutory Compliance](https://img.shields.io/badge/Statutory-DGMS%20OMR%202019%20Rule%2043-10B981?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **AI-Powered Serious Injury & Fatality (SIF) Precursor Prevention & Industrial Process Safety Decision Intelligence Platform**
 
 *Bridge the SIF Paradox across offshore drilling rigs, refinery processing units, and tank farms: autonomous hydrocarbon leak detection, Hopkinson-Cranz thermodynamic blast physics modeling, real-time 3D WebGL digital twin hazard overlays, two-pass active feature recall, and 1-click DGMS OMR 2019 Rule 43 statutory isolation orders.*
 
-[Key Features](#-key-features) • [Architecture](#-architecture) • [SIF Severity & Blast Risk Matrix](#-sif-severity--blast-risk-matrix) • [Technology Stack](#-technology-stack) • [Getting Started](#-getting-started) • [API Reference](#-api-reference) • [Statutory Directives & References](#-statutory-directives--scientific-references) • [License & Attribution](#-license--attribution)
+[Key Features](#-key-features) • [Architecture](#-architecture) • [SIF Severity & Blast Risk Matrix](#-sif-severity--blast-risk-matrix) • [Technology Stack](#-technology-stack) • [Getting Started](#-getting-started) • [API Reference](#-api-reference) • [Statutory Directives & References](#-statutory-directives--scientific-references) • [License & Author](#-license--author)
 
 </div>
 
@@ -283,13 +283,12 @@ npm run dev
 
 ---
 
-## 📄 License & Attribution
+## 📄 License & Author
 
-This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 Developed for the **Smart India Hackathon (SIH 2026)** under Problem Statement **SIH26165** for **Oil India Limited (OIL)** and the **Ministry of Petroleum & Natural Gas**.
 
-### Author & Core Architecture
 **Sri Chandra Pappu**  
 *Lead Developer & System Architect — SentinelSIF*  
 [LinkedIn Profile](https://www.linkedin.com/in/chandrapappu1609) • [GitHub Profile](https://github.com/ChandraS0116)
