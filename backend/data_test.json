@@ -1,0 +1,402 @@
+[
+    {
+        "incident_id": "ROUTINE-7B88B575",
+        "timestamp": "2026-06-05T02:15:01",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-3C293E90",
+        "timestamp": "2026-06-10T07:40:21",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Small hydraulic oil drip observed from a parked vehicle. Spill cleaned up immediately.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-780D2696",
+        "timestamp": "2026-06-14T10:18:24",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-F476A5F8",
+        "timestamp": "2026-06-14T12:54:02",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-8C970998",
+        "timestamp": "2026-06-14T17:14:14",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-4953CCA8",
+        "timestamp": "2026-06-16T10:16:14",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-9A273545",
+        "timestamp": "2026-06-18T06:19:33",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-F1A2469D",
+        "timestamp": "2026-06-22T14:07:40",
+        "location": "Site B - Drilling",
+        "activity": "Maintenance",
+        "equipment": "Various",
+        "narrative": "During maintenance on pump P-102, a technician entered the immediate vicinity. No injury occurred. The equipment was not fully isolated (LOTO failed) and the rotating coupling guard had been removed.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-99EA5073",
+        "timestamp": "2026-06-26T15:37:42",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-6D5F2A7C",
+        "timestamp": "2026-06-26T23:09:38",
+        "location": "Site B - Drilling",
+        "activity": "Confined Space Entry",
+        "equipment": "Various",
+        "narrative": "While inspecting the high-pressure line, a minor flange leak was noticed. The technician tightened it. Later investigation revealed the line was fully pressurized at 3000 PSI and not safely depressurized prior to the work.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-CE618E62",
+        "timestamp": "2026-06-30T06:16:03",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Small hydraulic oil drip observed from a parked vehicle. Spill cleaned up immediately.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-0B2C8503",
+        "timestamp": "2026-07-02T03:11:43",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-7C688620",
+        "timestamp": "2026-07-02T18:30:13",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-E51E14F5",
+        "timestamp": "2026-07-03T23:36:35",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-FD678510",
+        "timestamp": "2026-07-04T21:53:38",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-622B4BB8",
+        "timestamp": "2026-07-05T01:00:06",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Small hydraulic oil drip observed from a parked vehicle. Spill cleaned up immediately.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-97BF283B",
+        "timestamp": "2026-07-05T12:51:37",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Small hydraulic oil drip observed from a parked vehicle. Spill cleaned up immediately.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-2330A580",
+        "timestamp": "2026-07-13T15:10:46",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-96C353EB",
+        "timestamp": "2026-07-18T10:03:43",
+        "location": "Refinery Unit A",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "A scaffold tube fell from the 3rd tier of the structure, landing 2 meters away from a passing operator. No injury. The exclusion zone barrier was missing.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-0DAE9F4E",
+        "timestamp": "2026-07-21T15:24:30",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-9A66C3BD",
+        "timestamp": "2026-07-23T16:51:14",
+        "location": "Site B - Drilling",
+        "activity": "Confined Space Entry",
+        "equipment": "Various",
+        "narrative": "A scaffold tube fell from the 3rd tier of the structure, landing 2 meters away from a passing operator. No injury. The exclusion zone barrier was missing.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-DCCCD553",
+        "timestamp": "2026-07-24T15:19:40",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-D5A3034B",
+        "timestamp": "2026-07-26T21:33:44",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-2CBA6C2A",
+        "timestamp": "2026-07-27T08:47:57",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Small hydraulic oil drip observed from a parked vehicle. Spill cleaned up immediately.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-79095708",
+        "timestamp": "2026-08-03T08:01:00",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-188B573F",
+        "timestamp": "2026-08-07T03:05:06",
+        "location": "Refinery Unit A",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "A forklift reversed in the warehouse. An employee walking behind it had to jump out of the way. No physical contact occurred, but there was no spotter and the reverse alarm was malfunctioning.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-0B896112",
+        "timestamp": "2026-08-07T21:19:40",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-DDF0348C",
+        "timestamp": "2026-08-10T07:14:57",
+        "location": "Refinery Unit A",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "A forklift reversed in the warehouse. An employee walking behind it had to jump out of the way. No physical contact occurred, but there was no spotter and the reverse alarm was malfunctioning.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-FE1E81EF",
+        "timestamp": "2026-08-10T18:33:15",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-BF82B724",
+        "timestamp": "2026-08-16T06:21:49",
+        "location": "Pipeline Sector 4",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "While inspecting the high-pressure line, a minor flange leak was noticed. The technician tightened it. Later investigation revealed the line was fully pressurized at 3000 PSI and not safely depressurized prior to the work.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-84291C6C",
+        "timestamp": "2026-08-17T10:42:07",
+        "location": "Site A - Wellpad",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-B9CAF860",
+        "timestamp": "2026-08-18T10:56:23",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-FFA7032B",
+        "timestamp": "2026-08-24T17:29:56",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Worker pinched finger in the door of the site office. No treatment required.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-38C9C5C1",
+        "timestamp": "2026-08-26T10:29:55",
+        "location": "Storage Tank Farm",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "While inspecting the high-pressure line, a minor flange leak was noticed. The technician tightened it. Later investigation revealed the line was fully pressurized at 3000 PSI and not safely depressurized prior to the work.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-4B6FC1BE",
+        "timestamp": "2026-08-27T02:55:54",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-6305291B",
+        "timestamp": "2026-08-27T11:12:57",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "ROUTINE-E49F5535",
+        "timestamp": "2026-08-28T19:16:42",
+        "location": "Refinery Unit B",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "A lightbulb shattered while being replaced. The area was swept clean. Worker wore PPE (gloves and safety glasses).",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-BEA3A86F",
+        "timestamp": "2026-08-29T05:19:22",
+        "location": "Site B - Drilling",
+        "activity": "Inspection",
+        "equipment": "Various",
+        "narrative": "A forklift reversed in the warehouse. An employee walking behind it had to jump out of the way. No physical contact occurred, but there was no spotter and the reverse alarm was malfunctioning.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    },
+    {
+        "incident_id": "ROUTINE-6C23BF96",
+        "timestamp": "2026-08-30T07:28:22",
+        "location": "Admin Building",
+        "activity": "Routine tasks",
+        "equipment": "General",
+        "narrative": "Employee tripped over an uneven mat in the hallway. Minor scrape on knee. First aid provided.",
+        "incident_type": "Minor Incident",
+        "source": "Public OSHA Equivalent (Simulated)"
+    },
+    {
+        "incident_id": "SIF-SYNC-366C43FA",
+        "timestamp": "2026-08-31T02:15:56",
+        "location": "Refinery Unit A",
+        "activity": "Confined Space Entry",
+        "equipment": "Various",
+        "narrative": "A scaffold tube fell from the 3rd tier of the structure, landing 2 meters away from a passing operator. No injury. The exclusion zone barrier was missing.",
+        "incident_type": "Near Miss",
+        "source": "Synthetic Augmentation"
+    }
+]

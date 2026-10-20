@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #070a0e;
+  --foreground: #f8fafc;
+  --font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", "Helvetica Neue", Arial, sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter), var(--font-system);
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  font-family: var(--font-inter), var(--font-system);
+  text-rendering: optimizeLegibility;
+  letter-spacing: -0.011em;
+}
+
+/* Auto-scale responsive viewport: ensures complete dashboard fits at 100% Chrome zoom on laptop screens */
+@media (max-width: 1536px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1366px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (max-height: 800px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media (max-height: 700px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+/* Custom sleek non-intrusive scrollbars */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.55);
+}
+
+[data-theme="light"] ::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.35);
+}
+[data-theme="light"] ::-webkit-scrollbar-thumb:hover {
+  background: rgba(71, 85, 105, 0.6);
+}
+
+[data-theme="petroleum"] ::-webkit-scrollbar-thumb {
+  background: rgba(245, 158, 11, 0.35);
+}
+[data-theme="petroleum"] ::-webkit-scrollbar-thumb:hover {
+  background: rgba(245, 158, 11, 0.65);
+}
+
+[data-theme="cyber"] ::-webkit-scrollbar-thumb {
+  background: rgba(16, 185, 129, 0.4);
+}
+[data-theme="cyber"] ::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.7);
+}
+
+/* Industrial Cockpit HUD Animations */
+@keyframes scanline {
+  0% {
+    top: 0%;
+    opacity: 0.85;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    top: 100%;
+    opacity: 0.85;
+  }
+}
+
+.animate-scanline {
+  animation: scanline 2.6s ease-in-out infinite;
+}
+
+@keyframes pulseBar {
+  0%, 100% {
+    transform: scaleY(0.25);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.animate-pulse-bar-1 { animation: pulseBar 1.1s ease-in-out infinite; transform-origin: bottom; }
+.animate-pulse-bar-2 { animation: pulseBar 0.8s ease-in-out 0.2s infinite; transform-origin: bottom; }
+.animate-pulse-bar-3 { animation: pulseBar 1.4s ease-in-out 0.4s infinite; transform-origin: bottom; }
+.animate-pulse-bar-4 { animation: pulseBar 0.9s ease-in-out 0.15s infinite; transform-origin: bottom; }
+.animate-pulse-bar-5 { animation: pulseBar 1.3s ease-in-out 0.35s infinite; transform-origin: bottom; }
+.animate-pulse-bar-6 { animation: pulseBar 0.75s ease-in-out 0.5s infinite; transform-origin: bottom; }
+
+@keyframes radarSweep {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-radar {
+  animation: radarSweep 4s linear infinite;
+  transform-origin: center;
+}
+

@@ -1,0 +1,22 @@
+{
+  "name": "sentinelsif",
+  "version": "1.0.0",
+  "description": "SentinelSIF - Deepwater Offshore Industrial Process Safety Command Center",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run next-dev",
+    "next-dev": "npm --prefix frontend run next-dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "keywords": [
+    "safety",
+    "digital-twin",
+    "sif-precursor",
+    "oil-and-gas",
+    "threejs"
+  ],
+  "author": "SentinelSIF Team",
+  "license": "UNLICENSED"
+}
