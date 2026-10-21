@@ -11,6 +11,8 @@
 ![Database](https://img.shields.io/badge/Database-SQLite%20(Native%20WAL)-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Statutory Compliance](https://img.shields.io/badge/Statutory-DGMS%20OMR%202019%20Rule%2043-10B981?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentinel--sif.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel-sif.vercel.app)
+[![API Status](https://img.shields.io/badge/API%20Status-Online%20on%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://sentinelsif-api.onrender.com)
 
 **AI-Powered Serious Injury & Fatality (SIF) Precursor Prevention & Industrial Process Safety Decision Intelligence Platform**
 
